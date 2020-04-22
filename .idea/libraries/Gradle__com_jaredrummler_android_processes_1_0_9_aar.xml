@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:android-processes:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f93bcd01daba95b44fd74f1f406f9fa/android-processes-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f93bcd01daba95b44fd74f1f406f9fa/android-processes-1.0.9/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/android-processes/1.0.9/77c3e75e5f8dbb2c4403c25a724a15ad22863366/android-processes-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/android-processes/1.0.9/a06ec4a084321e9ae7e6dbbc3d52ed42523ec3dc/android-processes-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
